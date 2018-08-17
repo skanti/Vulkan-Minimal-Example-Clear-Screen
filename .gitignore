@@ -1,0 +1,11 @@
+# hidden files
+.*
+
+# generated files/folders
+main
+*.o
+cmake-build-debug
+build
+
+# exception
+!.gitignore
